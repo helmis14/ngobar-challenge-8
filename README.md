@@ -7,4 +7,3 @@ Tugas kalian disini adalah:
 3. Coverage minimal 70%
 
 Good luck!
-# ngobar-challenge-8
