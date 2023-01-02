@@ -1,5 +1,6 @@
 const app = require('../app/index');
 const request = require('supertest');
+const { JsonWebTokenError } = require('jsonwebtoken');
 let token = '';
 const models = require('../app/models');
 const Car = models.Car;
